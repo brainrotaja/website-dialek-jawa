@@ -1,11 +1,6 @@
 # website-dialek-jawa
 website untuk dialek jawa
 <!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kamus Dialek Jawa</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,8 +8,6 @@ website untuk dialek jawa
     <h1>Kamus Dialek Jawa Yogyakarta</h1>
     <nav>
       <a href="#kamus">Kamus</a>
-      <a href="#belajar">Belajar</a>
-      <a href="#tentang">Tentang</a>
     </nav>
   </header>
   <main>
