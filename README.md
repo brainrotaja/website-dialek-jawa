@@ -37,28 +37,22 @@ website untuk dialek jawa
       <h2>Tentang Kami</h2>
       <p>Proyek ini bertujuan untuk melestarikan dialek Jawa Yogyakarta melalui teknologi digital.</p>
     </section>
-  </main>
-  <footer>
-    <p>&copy; 2025 Kamus Dialek Jawa</p>
-  </footer>
-  <script src="script.js"></script>
-</body>
-</html>
-<section id="belajar">
-  <h2>Belajar Dialek</h2>
+  <h2>Quiz</h2>
   <p>Pelajari dialek Jawa dengan mendengarkan audio dan mengikuti kuis interaktif!</p>
-  
-  <!-- Audio contoh -->
-  <audio controls>
-    <source src="audio/sugeng-enjing.mp3" type="audio/mpeg">
-    Browser Anda tidak mendukung elemen audio.
-  </audio>
 
   <!-- Tombol Menuju Kuis Quizizz -->
   <div class="quiz-container">
     <p>Uji pemahaman Anda dengan mengikuti kuis berikut:</p>
     <a href="https://quizizz.com/join" target="_blank" class="quiz-button">
       Mulai Kuis di Quizizz
+    <section id="tentang">
+  <h2>Komunitas Dialek Jawa</h2>
+
+  <!-- Link ke komunitas Telegram -->
+  <div class="komunitas">
+    <p>Bergabung dengan komunitas kami di Telegram untuk diskusi lebih lanjut!</p>
+    <a href="https://t.me/dialekjawa" target="_blank" class="telegram-button">
+      Gabung Komunitas Telegram
     </a>
   </div>
 </section>
